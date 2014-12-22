@@ -1,6 +1,6 @@
 package Acme::KMX::Test;
 
-our $VERSION = '0.003';
+our $VERSION = '0.004';
 
 sub demo0 { warn "0" };
 
