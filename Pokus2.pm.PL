@@ -16,15 +16,15 @@ __END__
 
 =head1 NAME
 
-Acme::KMX::Pokus2 - Testing package 2
+$p - Testing package 2
 
 =head1 SYNOPSIS
 
- No synopsis.
+ No synopsis for $p
 
 =head1 DESCRIPTION
 
- No description.
+ No description for $p
 
 =head1 LICENSE
 
