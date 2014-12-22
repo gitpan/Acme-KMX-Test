@@ -1,6 +1,6 @@
 package Acme::KMX::Test;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 sub demo0 { warn "0" };
 
@@ -27,5 +27,3 @@ This program is free software; you can redistribute it and/or modify it under th
 =head1 COPYRIGHT
 
 Copyright (c) 2014 KMX
-
-MARKER
