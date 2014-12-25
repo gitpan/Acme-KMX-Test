@@ -10,5 +10,6 @@ WriteMakefile(
    'Pokus1.pm'            => '$(INST_LIB)/Acme/KMX/Pokus1.pm',
    'Pokus2.pm'            => '$(INST_LIB)/Acme/KMX/Pokus2.pm',
   },
-  dist => { TARFLAGS => '--owner=0 --group=0 -cvf' },
+  dist  => { TARFLAGS => '--owner=0 --group=0 -cvf' },
+  clean => { FILES => 'Pokus1.pm Pokus2.pm' },
 );

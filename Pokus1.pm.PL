@@ -1,6 +1,5 @@
 use strict;
 use warnings;
-use File::Slurp;
 
 my $p = "Acme::KMX::Pokus1";
 warn "Creating[$p]: '$ARGV[0]'";
