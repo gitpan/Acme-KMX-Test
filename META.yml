@@ -17,5 +17,12 @@ no_index:
   directory:
     - t
     - inc
+provides:
+  Acme::KMX::Pokus1:
+    file: Pokus1.pm.PL
+  Acme::KMX::Pokus2:
+    file: Pokus2.pm.PL
+  Acme::KMX::Test:
+    file: lib/Acme/KMX/Test.pm
 requires: {}
-version: 0.006
+version: 0.007
