@@ -1,3 +1,11 @@
+package Acme::KMX::Pokus1;
+
+sub demo1 { warn "1" };
+
+1;
+
+__END__
+
 =head1 NAME
 
 Acme::KMX::Pokus1 - Testing package 1
