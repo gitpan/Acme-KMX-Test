@@ -17,6 +17,10 @@
       "directory" : [
          "t",
          "inc"
+      ],
+      "file" : [
+         "Pokus1.pm.PL",
+         "Pokus2.pm.PL"
       ]
    },
    "prereqs" : {
@@ -46,5 +50,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.011"
+   "version" : "0.012"
 }
