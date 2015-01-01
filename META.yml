@@ -25,4 +25,4 @@ provides:
   Acme::KMX::Test:
     file: lib/Acme/KMX/Test.pm
 requires: {}
-version: 0.007
+version: 0.008
