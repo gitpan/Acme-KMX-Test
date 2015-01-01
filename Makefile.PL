@@ -18,10 +18,10 @@ WriteMakefile(
     },
     provides => {
       'Acme::KMX::Test'   => { file => 'lib/Acme/KMX/Test.pm' },
-      #'Acme::KMX::Pokus1' => { file => 'Pokus1.pm.PL' },
-      #'Acme::KMX::Pokus2' => { file => 'Pokus2.pm.PL' },
-      'Acme::KMX::Pokus1' => { file => 'GENERATED/Pokus1.pm' },
-      'Acme::KMX::Pokus2' => { file => 'GENERATED/Pokus2.pm' },
+      'Acme::KMX::Pokus1' => { file => 'Pokus1.pm.PL' },
+      'Acme::KMX::Pokus2' => { file => 'Pokus2.pm.PL' },
+      #'Acme::KMX::Pokus1' => { file => 'GENERATED/Pokus1.pm' },
+      #'Acme::KMX::Pokus2' => { file => 'GENERATED/Pokus2.pm' },
     },
   },
 );

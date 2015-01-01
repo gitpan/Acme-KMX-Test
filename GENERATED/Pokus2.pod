@@ -1,11 +1,3 @@
-package Acme::KMX::Pokus2;
-
-sub demo2 { warn "2" };
-
-1;
-
-__END__
-
 =head1 NAME
 
 Acme::KMX::Pokus2 - Testing package 2

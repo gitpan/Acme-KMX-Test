@@ -22,10 +22,10 @@ no_index:
     - Pokus2.pm.PL
 provides:
   Acme::KMX::Pokus1:
-    file: GENERATED/Pokus1.pm
+    file: Pokus1.pm.PL
   Acme::KMX::Pokus2:
-    file: GENERATED/Pokus2.pm
+    file: Pokus2.pm.PL
   Acme::KMX::Test:
     file: lib/Acme/KMX/Test.pm
 requires: {}
-version: 0.012
+version: 0.013
